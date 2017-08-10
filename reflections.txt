@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+
+   - Researching on new topics
+   -  The very foundation how to built a blog.
+
+* What has been easy?
+ 
+   - The way of teaching and simple english used made to understand the topics very easy.
+
+* What has been difficult?
+  
+   - Since this is initial stage of learning, I feel everthing is ok. Nothing felt difficult.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+ There were few constrains in obtaing the final output for this project. I tried several times and went back through the classes once more. Finally I felt that I have gained some knowledge from all the work that is done.
